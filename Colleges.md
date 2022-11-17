@@ -1,6 +1,6 @@
 **English (UK)** | [简体中文（中国大陆）](Colleges-zh-cn.md)
 
-# What are Home colleges?
+# What are Home colleges ?
 
 - [About](README.md)
 - **What are Home colleges?**
